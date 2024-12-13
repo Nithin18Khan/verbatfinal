@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "326786121997",
+    "project_id": "verbatfinal",
+    "storage_bucket": "verbatfinal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326786121997:android:71afe4a9186de878347044",
+        "android_client_info": {
+          "package_name": "com.example.verbat_iot_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOuIOe4CWe8J6SId111qkqEBMU3LCSCmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
